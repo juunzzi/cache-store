@@ -1,0 +1,19 @@
+{
+  "name": "cache-store",
+  "version": "1.0.0",
+  "description": "나의 작고 귀여운 캐시스토어 🥰 (난 같은 코드를 계속 반복하고 있었다....)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juunzzi/cache-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juunzzi/cache-store/issues"
+  },
+  "homepage": "https://github.com/juunzzi/cache-store#readme"
+}
