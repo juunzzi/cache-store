@@ -13,4 +13,4 @@
 
 [ ] 캐시 스토어 객체에 직접 접근하는 함수 + `cache` 데이터 + `timeout` 데이터 캡슐화
 
-[ ] cachingAPI : cache key와 remote API fetcher 함수를 인자로 받는다. 흔하디 흔한 고차함수 중 하나이다. `setCache,getCache` 함수에 직접 호출가능.
+[ ] cachingAPI : cache key와 remote API fetcher 함수를 인자로 받는다. 흔하디 흔한 고차함수 중 하나이다. `setCache,getCache` 함수 직접 호출가능.
