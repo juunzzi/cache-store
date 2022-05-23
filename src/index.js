@@ -1,4 +1,4 @@
-export const { clearCache, caching } = (() => {
+export const { clearCache, cachingAPI } = (() => {
   const cache = {};
 
   const timeout = {};
